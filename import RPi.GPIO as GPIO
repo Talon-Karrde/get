@@ -1,0 +1,4 @@
+import RPi.GPIO as GPIO
+GPI0.setmode(GPI0.BOARD)
+mode = GPIO.setmode()
+GPIO.setup(21, 1)
